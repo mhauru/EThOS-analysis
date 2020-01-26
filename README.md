@@ -1,0 +1,1 @@
+In this Jupyter notebook I explore the British Library's Electronic Theses Online Service (EThOS) data set of PhD thesis metadata. You can just open `analysis.ipynb` to read the notebook (GitHub knows how to render Jupyter notebooks nicely), or you can of course download it and run it yourself.
